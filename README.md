@@ -10,7 +10,6 @@ DV200 2023
 
 GlenSpares is a platform dedicated to helping car enthusiasts find and purchase spare parts for their vehicles. This README provides an overview of the project, its features, functionality, and the planning undertaken during its development. GlenSpares is your one-stop destination for exploring and purchasing spare parts for a wide range of car models. The website is built with simplicity and user-friendliness in mind, making it easy for users to find the parts they need.
 
-[View Demonstration](YourVideoLink)
 
 ---
 
@@ -25,10 +24,6 @@ GlenSpares is a platform dedicated to helping car enthusiasts find and purchase 
 7. [Challenges](#challenges)
 8. [Future Implementation](#future-implementation)
 9. [Mockups](#mockups)
-10. [Video Demonstration](#video-demonstration)
-11. [Conclusion](#conclusion)
-12. [License](#license)
-13. [Contact](#contact)
 
 ---
 
@@ -113,11 +108,4 @@ Run the following in the command-line to install all the required dependencies:
 ![3](mockups_glenspares/3.jpg)
 <br>
 
-### Video Demonstration
-
-To see a run-through of the GlenSpares application, click below:
-
-[View Demonstration](//)
-
-### Conclusion
 
