@@ -106,8 +106,14 @@ Run the following in the command-line to install all the required dependencies:
 - **Advanced Search Functionality:** Expanding search features and product filters.
 - **Internationalization and Localization:** Adding support for multiple languages and currencies.
 
-### Mockups
+### Mockups.
 
+![1](mockups_glenspares/1.jpg)
+<br>
+![2](mockups_glenspares/2.jpg)
+<br>
+![3](mockups_glenspares/3.jpg)
+<br>
 
 ### Video Demonstration
 
