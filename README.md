@@ -86,3 +86,34 @@ Run the following in the command-line to install all the required dependencies:
    ```sh
    npm start
    ```
+
+## Development Process
+
+### Highlights
+
+- **User-friendly Interface:** GlenSpares offers an intuitive and user-friendly experience, facilitating easy navigation and product discovery.
+- **Admin Panel:** The presence of an Admin Panel allows efficient product management, enabling easy addition, modification, and deletion of products.
+- **Responsive Design:** The website ensures optimal viewing across various devices, providing accessibility to a broad range of users.
+
+### Challenges
+
+- **Data Management:** Handling and managing vast product data while ensuring consistency and accuracy.
+- **Enhanced Security:** Ensuring robust security measures for user data and transactions.
+
+### Future Implementation
+
+- **Enhanced User Authentication:** Implementing more secure user authentication mechanisms.
+- **Advanced Search Functionality:** Expanding search features and product filters.
+- **Internationalization and Localization:** Adding support for multiple languages and currencies.
+
+### Mockups
+
+
+### Video Demonstration
+
+To see a run-through of the GlenSpares application, click below:
+
+[View Demonstration](//)
+
+### Conclusion
+
