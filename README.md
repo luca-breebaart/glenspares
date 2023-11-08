@@ -109,3 +109,8 @@ Run the following in the command-line to install all the required dependencies:
 <br>
 
 
+**Authors**
+* Luca Breebart 221345@virtualwindow.co.za
+* Dieter Roelofse 221122@virtualwindow.co.za
+* Jarryd Carelse	221267@virtualwindow.co.za
+* Emily Fulford	221075@virtualwindow.co.za
