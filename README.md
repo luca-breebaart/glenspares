@@ -60,11 +60,29 @@ The following instructions will help you get a copy of the GlenSpares project up
 
 [List any prerequisites or technologies that users need to have installed before they can run the project.]
 
-### How to Install
+### Installation
+Here are ways to clone this repo:
 
-To run GlenSpares locally or contribute to the project, follow these steps:
+1. Software </br>
+Create a working folder in which you want this file saved. Then open the folder
 
-1. **Clone the Repository:**
+`Visual Studio Code` -> `File` -> `Open` -> `Folder Name`</br>
 
-```bash
-git clone [YourRepositoryURL]
+2. Clone Repository </br>
+Run the following in the command-line in the terminal to clone the project:
+   ```sh
+   git clone https://github.com/luca-breebaart/glenspares.git
+   ```
+    Then `cd client` as well as `cd server`
+
+3. Install Dependencies </br>
+Run the following in the command-line to install all the required dependencies:
+
+   ```sh
+   npm install
+   ```
+4. Start the Server:
+
+   ```sh
+   npm start
+   ```
